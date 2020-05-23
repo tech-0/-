@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="cache-control" content="max-age=0">
@@ -257,5 +256,4 @@ $(".fblikesx").click(function(){$("#show_fb_likesx").show()}),$(".fblikesx").cli
 </script>
 <div id="loading" class="hgchd" style="background-color:rgba(0, 0, 0, 0.5);">
 <div class="spinner-border" style="width:120px;height:120px;"></div></div>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'59392da4bdd805bb',m:'370d6ea8384686e6311287947050dbd6249cc425-1589507113-1800-AT7PaT8ckMHLsI2dLzzS8oYiaFiVsroB8G1P8MiH5sVoVsD4UCqqIzAUWr60WecXKjTAYjWBu9chLXlkolICihgvspulA81OX3z6B1VkGndQziAQ2QfY+kUWU4MmLO7GyA==',s:[0x32542a7c11,0x10a67a9d84],fb:100,}})();</script></body>
-</html>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'59392da4bdd805bb',m:'370d6ea8384686e6311287947050dbd6249cc425-1589507113-1800-AT7PaT8ckMHLsI2dLzzS8oYiaFiVsroB8G1P8MiH5sVoVsD4UCqqIzAUWr60WecXKjTAYjWBu9chLXlkolICihgvspulA81OX3z6B1VkGndQziAQ2QfY+kUWU4MmLO7GyA==',s:[0x32542a7c11,0x10a67a9d84],fb:100,}})();</script>
