@@ -121,7 +121,7 @@ a:hover {
       <div class="footer-contents">
    <left-side>
      <audio controls>
-  <source src="https://download.quran.islamway.net/quran3/442/10652/48/001.mp3" type="audio/ogg">
+  <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/ogg">
 </audio>
     </left-side>
     </div>  
