@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
+
 
     <link type='text/css' rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/bundles/8be48126aaf76de2a89a565e5cc8cb32e60d2b9e.css'/>
     
@@ -55,7 +55,6 @@ a:hover {
 
   
 </body>
-</html> 
 </center>
    
 
