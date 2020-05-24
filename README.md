@@ -115,11 +115,11 @@ a:hover {
 
     <div id="footer" class="footer"> <!-- footer start -->
       <div class="footer-contents">
-   <left-side>
-     <audio controls>
+ 
+<audio controls>
   <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/ogg">
+  <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/mpeg">
 </audio>
-    </left-side>
     </div>  
 
          
