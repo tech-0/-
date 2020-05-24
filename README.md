@@ -130,11 +130,7 @@ a:hover {
 <br>
 <br>
 <br>
-   
-    </div>
-
-    
-    </div>
+  
 
 </div>    <!-- container end-->
 
