@@ -44,7 +44,6 @@ a:hover {
   border-radius: 50%;
 }
 </style>
-</head>
 <body>
 
 
