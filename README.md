@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -141,15 +141,7 @@ a { transition: all 0.3s ease; }
   <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/ogg" />
   <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/mpeg" />
 </audio>
-    </div>  
-
-         
-        
-              </a>
-            </div>
-          </div>
-        </section>
-      </div>
+    </div> 
       <footer>
         <p class="tm-text-white tm-footer-text">
           Copyright &copy; 2020
