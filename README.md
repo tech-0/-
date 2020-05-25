@@ -30,7 +30,7 @@ body {
 }
 
 .tm-container {
-  max-width: 1000px;
+  max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
 }
