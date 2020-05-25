@@ -75,7 +75,7 @@ a:hover {
             al-Fatihah
         </div>
 
-       <div align="right"/>
+       <div align="Center"/>
 
 
        ‏      <div class= "sen sen-a" id="sen-1-a" lang="ar"><span class="span-a">١ &nbsp;</span>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</div><div class= "sen sen-e"><span class="span-e">&nbsp; </span>به ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو به‌زه‌ییه‌).</div>
@@ -120,7 +120,9 @@ a:hover {
 
     <div id="footer" class="footer"> <!-- footer start -->
       <div class="footer-contents">
- 
+ <br>
+<br>
+ <div align="Center"/>
 <audio controls>
   <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/ogg">
   <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/mpeg">
