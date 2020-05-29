@@ -43,9 +43,6 @@
             </div>
             <div class="container">
                 <div class="baner-info-w3layouts text-center">
-                  
-                
-                </div>
            
     <!-- //banner -->
     <!--/ banner-bottom-w3ls -->
@@ -71,7 +68,3 @@
                 <a href="#home" class="move-top"><span class="fa fa-angle-up  mb-3" aria-hidden="true"></span></a>
             </div>
   
-
-</body>
-
-</html>
