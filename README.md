@@ -28,19 +28,6 @@
 
 <body>
 
-   
-                <h1 class="logo"><a href="index.html">Launcher</a></h1>
-                <ul class="list-unstyled apps-lists text-right">
-                    <li>
-                        <a href="#" class="btn"><span class="fa fa-apple mr-2" aria-hidden="true"></span>App Store</a>
-                    </li>
-                    <li class="ml-2">
-                        <a href="#" class="btn"><span class="fa fa-android mr-2" aria-hidden="true"></span>Android</a>
-                    </li>
-              
-                
-                </ul>
-   
             <div class="container">
                 <div class="baner-info-w3layouts text-center">
            
