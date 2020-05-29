@@ -15,7 +15,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  
+  text-align: center;
 }
 .navbar a {
   font-family: Arial;
@@ -23,7 +23,7 @@ body {
   display: block;
   color: black;
   text-align: center;
-  padding: 10px;
+  padding: 10px 10px;
   text-decoration: none;
   font-size: 10px;
   font-weight: bold;
