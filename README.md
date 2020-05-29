@@ -1,7 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="zxx">
-
+<html>
 <head>
     <title>قورئانی پیرۆز</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
