@@ -40,7 +40,7 @@
               
                 
                 </ul>
-            </div>
+   
             <div class="container">
                 <div class="baner-info-w3layouts text-center">
            
