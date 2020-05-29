@@ -37,7 +37,7 @@
                     <li class="ml-2">
                         <a href="#" class="btn"><span class="fa fa-android mr-2" aria-hidden="true"></span>Android</a>
                     </li>
-                </ul>
+              
                 
                 </ul>
             </div>
@@ -46,9 +46,7 @@
                   
                 
                 </div>
-            </div>
-        </div>
-    </section>
+           
     <!-- //banner -->
     <!--/ banner-bottom-w3ls -->
     <section class="banner-bottom-w3ls py-lg-5 py-4" id="about">
