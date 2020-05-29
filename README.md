@@ -64,7 +64,6 @@
             <p class="copy-right-grids text-li text-center my-sm-4 my-4">مافی پارێزراوە بۆ خاوەنی | دروستکردنی
                 <a href="https://www.facebook.com/profile.php?id=100011603976212"> ابراهیم قادر مصطفی </a>
             </p>
-            <div class="top_move text-center">
-                <a href="#home" class="move-top"><span class="fa fa-angle-up  mb-3" aria-hidden="true"></span></a>
+           
             </div>
   
