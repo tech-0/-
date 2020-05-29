@@ -1,105 +1,66 @@
+<!DOCTYPE html>
 <html>
-<body>
-
-<style type="text/css">
-
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 body {
- background-color: #C8DAAD;
-}
-
-p { 
-
-text-align: center;
-font-family: Arial;
-font-size: 12px;
-color: red;
-padding-top: 5px;
-padding-bottom: 5px;
-margin: auto;
+  margin:0;
+  background-color: white;
 
 }
 
-p1{ 
-
-text-align: center;
-font-family: Arial;
-font-size: 14px;
-color: #000000;
-padding: auto;
-
+.navbar {
+  overflow: hidden;
+  background-color: #6FB5DF;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  
 }
-
-p4{ 
-
-float: right;
-font-family: Arial;
-font-size: 14px;
-color: red;
-padding: 10px;
-
+.navbar a {
+  font-family: Arial;
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: bold;
 }
-
-p3{ 
-
-float: right;
-font-family: Ali A Samik;
-font-size: 14px;
-color: #000000;
-padding-bottom: auto;
-margin: 6px;
+.navbar a:hover {
+  background: red;
+  color: white;
+}
+.kui {
+ font-size: 15px;
+}
+.footer {
+  color: red;
 }
 
 </style>
+</head>
+<body>
 <div>
-<center>
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="https://server7.mp3quran.net/basit/001.mp3" type="audio/mpeg">
-</audio>
-</center>
-<div>
+<div class="navbar">
+  <a href="https://tech-0.github.io/All-fatihah/">سەرەکی</a>
+  <a href="#news">قورئانی پیرۆز</a>
+  <a href="#contact">زیکرەکان</a>
+  <a href="#contact">زیکرەکان</a>
+  <a href="#contact">دەربارە</a>
 </div>
 <br>
-
-<p> سُوۡرَةُ الفَاتِحَة<p>
-<p1>
-
-بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ </p1>
 <br>
 <br>
-
-‏<p3> ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِينَ (2) </p3>
-
 <br>
-‏<P4> سوپاس و ستایش هه‌ر شایسته‌ی خوایه و بۆ خوایه‌، که خاوه‌ن و په‌روه‌ردگاری هه‌موو جیهانیان و هه‌مووبوونه‌وه‌ره. </P4>
-<br>
-‏<p3> ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ (﻿٣﻿) </p3>
+<div class="kui">
+<p>whfwpiofhweif<p>
 
-‏<P4> به‌خشنده‌ی میهره‌بان‌، کانگای ڕه‌حمه‌ت و میهره‌بانیه (ڕه‌حمه‌تی له دنیادا هه‌موو شتێکی گرتۆته‌وه‌، به‌ڵام له قیامه‌تدا ته‌نها بۆ ئیماندارانه‌). </P4>
-<br>
-‏<p3> مَـٰلِكِ يَوۡمِ ٱلدِّينِ (﻿٤﻿) </p3>
+</div>
 
-‏<P4> خاوه‌ن و سه‌رداری ڕۆژی پاداشت و سزایه (پادشای ڕۆژی قیامه‌ته که دادپه‌روه‌ری ڕه‌هاو بێ سنووری تێدا به‌رپا ده‌کات). </P4>
-
-<br>
-
-‏<p3> إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ (﻿٥﻿) </p3>
-
-‏<P4> خوایه‌، ته‌نها هه‌ر تۆ ده‌په‌رستین و هه‌ر له‌تۆش داوای یارمه‌تی و پشتیوانی ده‌که‌ین (له کاروباری دین و دنیاماندا، به‌که‌سی تر له به‌ده‌کانت ناکرێت). </P4>
-
-<br>
-‏<p3> ٱهۡدِنَا ٱلصِّرَٲطَ ٱلۡمُسۡتَقِيمَ (﻿٦﻿) </p3>
-
-‏<P4> خوایه به‌رده‌وام ڕێنمووییمان بفه‌رموو بۆ ئه‌م ڕێبازی ڕاست و دروستی ئیسلامه‌. </P4>
-<br>
-‏<p3> صِرَٲطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ (٧) </p3>
-
-
-‏<P4> که به‌رنامه و ڕێبازی ئه‌وانه‌یه له نازو نیعمه‌تی خۆت به‌هره‌وه‌رت کردوون، نه‌مانخه‌یته سه‌ر ڕێبازی ئه‌وانه‌ی خه‌شم و قینیان لێگیراوه (به‌هۆی ئه‌وه‌وه ده‌یزانن و لایانداوه‌)، هه‌روه‌ها نه‌مانخاته سه‌ر ڕێبازی ئه‌وانه‌ش، که سه‌رگه‌ردان و گومڕان (به‌هۆی لاساری و یاخی بوون و نه‌زانینیانه‌وه‌) </P4>
-
-
-<p> صَدَقَ اللهُ العَظيم <p>
-
-<p3>
+<div class="footer">
+yiutt@kui
+</div>
 </body>
 </html>
