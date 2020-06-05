@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -43,7 +44,7 @@
               English
               <input type="checkbox" class="check">
               <span class="lever white"></span>
-              Ú©ÙØ±Ø¯Û
+              کوردی
             </label>
           </div>
         </ul>
@@ -65,20 +66,20 @@
       <div class="col l12 m12 s12 center-align" >
 
         <h2 id="case">Coronavirus Cases</h2>
-        <h4> 6,399,945 </h4>
+        <h4> 6,747,148 </h4>
 
       </div>
     </div>
     <div class="row">
       <div class="col l12 m12 s12 center-align" >
         <h2 id="death">Deaths</h2>
-        <h4 class="red-text"> 378,065 </h4>
+        <h4 class="red-text"> 394,306 </h4>
       </div>
     </div>
     <div class="row">
       <div class="col l12 m12 s12 center-align" >
         <h2 id="recover">Recovered</h2>
-        <h4 class="green-text text-darken-2"> 2,930,443 </h4>
+        <h4 class="green-text text-darken-2"> 3,277,057 </h4>
       </div>
     </div>
     <div class="row">
@@ -86,11 +87,11 @@
         <div class="card grey lighten-1">
           <div class="card-content ">
             <h5 id="ncase">New Cases</h5>
-            <h6>36,749</h6>
+            <h6>54,454</h6>
             <h5 id="ndeath">New Deaths</h5>
-            <h6 class="red-text ">875</h6>
+            <h6 class="red-text ">2,008</h6>
             <h5 id="acase">Active Cases</h5>
-            <h6>3,091,437</h6>
+            <h6>3,075,785</h6>
           </div>
         </div>
       </div>
@@ -115,15 +116,15 @@
     checkbox.addEventListener('change', function(){
       if(this.checked){
         //kurdi
-        document.querySelector("#home").innerHTML = "ÙÛÙØ§ÚµÛÙÛ Ø¨ÙÛÙÛØ±ÛÙÛ";
-        document.querySelector("#case").innerHTML = "ØªÙØ´Ø¨ÙÙ";
-        document.querySelector("#death").innerHTML = "ÙØ±Ø¯Ù"
-        document.querySelector("#recover").innerHTML = "ÚØ§Ú©Ø¨ÙÙÛÙÛ";
-        document.querySelector("#ncase").innerHTML = "ØªÙØ´Ø¨ÙØ§ÙÛ Ø¦ÛÙÚÛ";
-        document.querySelector("#ndeath").innerHTML = "ÙØ±Ø¯ÙØ§ÙÛ Ø¦ÛÙÚÛ";
-        document.querySelector("#acase").innerHTML = "ÚØ§ÙØ§Ú©";
-        document.querySelector("#click").innerHTML = "Ú©ÙÛÚ© ÙÛØ±Û Ø¨Ú©Û Ø¨Û Ø¨ÛÙÛÙÛ Ø±ÛÚÛÛ ØªÙÙØ´ Ø¨ÙÙÙ Ù ÚØ§Ú©Ø¨ÙÙÙÛÙÛÛ Ø¹Ø±Ø§Ù";
-        document.querySelector("#iraq").innerHTML = "Ú©ÙÛÚ© ÙÛØ±ÛØ¨Ú©Û";
+        document.querySelector("#home").innerHTML = "لەماڵەوە بمێنەرەوە";
+        document.querySelector("#case").innerHTML = "توشبوو";
+        document.querySelector("#death").innerHTML = "مردن"
+        document.querySelector("#recover").innerHTML = "چاکبونەوە";
+        document.querySelector("#ncase").innerHTML = "توشبوانی ئەمڕۆ";
+        document.querySelector("#ndeath").innerHTML = "مردوانی ئەمڕۆ";
+        document.querySelector("#acase").innerHTML = "چالاک";
+        document.querySelector("#click").innerHTML = "کلیک لێرە بکە بۆ بینینی رێژەی تووش بوون و چاکبوونەوەی عراق";
+        document.querySelector("#iraq").innerHTML = "کلیک لێرەبکە";
 
       }else{
         document.querySelector("#home").innerHTML = "Stay Home";
