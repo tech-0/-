@@ -1,3 +1,4 @@
+
 <html>
 <style>
 body { background-color: #ffffff;}
@@ -114,7 +115,7 @@ function pauseAudio() {
 <style>
 .fa {
   padding-right: auto;
-  font-size: 8px;
+  font-size: 12px;
   width: 10px;
   text-align: center;
   text-decoration: none;
