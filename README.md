@@ -115,8 +115,8 @@ function pauseAudio() {
 <style>
 .fa {
   padding-right: auto;
-  font-size: 16px;
-  width: 16px;
+  font-size: 20px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
