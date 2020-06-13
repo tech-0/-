@@ -105,7 +105,7 @@ function pauseAudio() {
 <head>
 <body>
 
-<h2>دروستکردنی ابراھیم قادر سالی 2020</h2>
+<h2>دروستکردنی ابراھیم قادر مصطفی سالی 2020</h2>
 
 <center>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -113,8 +113,8 @@ function pauseAudio() {
 
 <style>
 .fa {
-  padding: 15px;
-  font-size: 10px;
+  padding: 8px;
+  font-size: 8px;
   width: 8px;
   text-align: center;
   text-decoration: none;
