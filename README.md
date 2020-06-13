@@ -35,8 +35,6 @@ function pauseAudio() {
 
    <body style="background-color:#FFFFFF;text-align:center">
 
-</table>
-
 
 
     <div class="content">
@@ -54,7 +52,7 @@ function pauseAudio() {
      
  
 
-<br> <br> <font style="font-family:kareemfont;" color="#000000" size="5">﻿﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ <p style="font-family:kareemfont;" class="thicker" size="15"><p class="thicker" size="5">
+<br> <br> <font style="font-family:kareemfont;" color="#000000" size="5">﻿﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ <p style="font-family:kareemfont;" class="thicker" size="15"><p class="thicker" size="5">
 
 به ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو به‌زه‌ییه‌).
 <br>
@@ -87,6 +85,6 @@ function pauseAudio() {
 که به‌رنامه و ڕێبازی ئه‌وانه‌یه له نازو نیعمه‌تی خۆت به‌هره‌وه‌رت کردوون، نه‌مانخه‌یته سه‌ر ڕێبازی ئه‌وانه‌ی خه‌شم و قینیان لێگیراوه (به‌هۆی ئه‌وه‌وه ده‌یزانن و لایانداوه‌)، هه‌روه‌ها نه‌مانخاته سه‌ر ڕێبازی ئه‌وانه‌ش، که سه‌رگه‌ردان و گومڕان (به‌هۆی لاساری و یاخی بوون و نه‌زانینیانه‌وه‌)
 
 
-</body>
+<body>
 
-</html>
+<html>
