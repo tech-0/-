@@ -5,6 +5,13 @@ body { background-color: #FFFFFF;}
 font-family: kareemfont;
 src: url(JF-Flat-regular.ttf) format("truetype");
 }
+Footer{
+Background-color: black;
+color: white;
+align-text: right;
+font-family: kareemfont;
+font-size: 5px;
+}
 </style>
   <head>
   <center>
@@ -86,5 +93,9 @@ function pauseAudio() {
 
 
 <body>
-
+<footer>
+    <div class="fixed-footer">
+        <div class="container">  دروستکردنی ابراھیم قادر سالی 2020</div>        
+    </div>
+</footer>
 <html>
