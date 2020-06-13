@@ -115,11 +115,11 @@ function pauseAudio() {
 .fa {
   padding: 15px;
   font-size: 10px;
-  width:10px;
+  width: 8px;
   text-align: center;
   text-decoration: none;
   margin: 3px 2px;
-  border-radius: 30%;
+  border-radius: 50%;
 }
 
 .fa:hover {
