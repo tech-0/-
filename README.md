@@ -155,7 +155,7 @@ function pauseAudio() {
 
 h2{
 color: white;
-font-size: 11px;
+font-size: 14px;
 }
 </style>
 <!-- Add font awesome icons -->
