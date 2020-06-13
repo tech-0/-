@@ -166,5 +166,5 @@ font-size: 11px;
 <a href="https://mobile.twitter.com/ibrahemQadir1" class="fa fa-twitter"></a>
 
 </a>
-</footer>
+<footer>
 <html>
