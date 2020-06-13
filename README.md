@@ -102,7 +102,7 @@ function pauseAudio() {
 <body>
 <footer>
 
-</head>
+<head>
 <body>
 
 <h2>دروستکردنی ابراھیم قادر سالی 2020</h2>
