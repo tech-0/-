@@ -15,8 +15,8 @@ src: url(JF-Flat-regular.ttf) format("truetype");
 </audio>
 
 
+<button onclick="pauseAudio()" type="button">وەستاندن</button>
 <button onclick="playAudio()" type="button">کارپێکردن</button>
-<button onclick="pauseAudio()" type="button">وەستاندن</button> 
 
 <script>
 var x = document.getElementById("myAudio"); 
