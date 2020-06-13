@@ -45,7 +45,7 @@ function pauseAudio() {
 } 
 </script>
 	</center>
-  </head>
+  <head>
   
 
    <body style="background-color:#FFFFFF;text-align:center">
