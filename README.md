@@ -19,8 +19,7 @@
     <div class="row text-center">	
 <br>
 <br> 
-<font style="font-family:kareemfont;"color="#000000" size="3">﻿﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ (1)<p style="font-family:kareemfont;" class="thicker" size="5"><p class="thicker" size="5">
-
+﻿﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ (1)
 به ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو به‌زه‌ییه‌).
 <br>
 <br>
