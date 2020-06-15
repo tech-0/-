@@ -1,73 +1,25 @@
-
 <html>
-<style>
-body { background-color: #ffffff;}
-@font-face{
-font-family: kareemfont;
-src: url(JF-Flat-regular.ttf) format("truetype");
-}
-Footer{
-Background-color: #629F9F;
-color: white;
-align-text: right;
-font-family: kareemfont;
-font-size: 5px;
-padding: 5px;
-marign: 5px;
-}
-.head {
-  overflow: hidden;
-  background-color: #4685C5;
-  padding: 3px 3px;
+
+<style> 
+
+.container{
+  background-color: lightgray;
+  border-radius: 8px;
 }
 
 </style>
-  <div class="head">
-  <center>
-	<audio id="myAudio">
-  <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/ogg">
-  <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
-
-<button onclick="pauseAudio()" type="button">وەستاندن</button>
-<button onclick="playAudio()" type="button">کارپێکردن</button>
-
-<script>
-var x = document.getElementById("myAudio"); 
-
-function playAudio() { 
-  x.play(); 
-} 
-
-function pauseAudio() { 
-  x.pause(); 
-} 
-</script>
-	</center>
-  
-
-   <body style="background-color:#FFFFFF;text-align:center">
-
-
-
-    <div class="content">
-        
-      <div class="text">
-          
-      <div class="regular">
-      
-    
-    <!-- RADIO -->
-                           <div style=" 
-     text-align: center;
-     background-color: #FFFFFF;
-     direction: rtl;">
-     
- 
-
-<br> <br> <font style="font-family:kareemfont;" color="#000000" size="3">﻿﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ (1)<p style="font-family:kareemfont;" class="thicker" size="5"><p class="thicker" size="5">
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+      <section class="jumbotron">
+  <div class="container">
+    <div class="row text-center">	
+<br>
+<br> 
+<font style="font-family:kareemfont;"color="#000000" size="3">﻿﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ (1)<p style="font-family:kareemfont;" class="thicker" size="5"><p class="thicker" size="5">
 
 به ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو به‌زه‌ییه‌).
 <br>
@@ -100,72 +52,7 @@ function pauseAudio() {
 که به‌رنامه و ڕێبازی ئه‌وانه‌یه له نازو نیعمه‌تی خۆت به‌هره‌وه‌رت کردوون، نه‌مانخه‌یته سه‌ر ڕێبازی ئه‌وانه‌ی خه‌شم و قینیان لێگیراوه (به‌هۆی ئه‌وه‌وه ده‌یزانن و لایانداوه‌)، هه‌روه‌ها نه‌مانخاته سه‌ر ڕێبازی ئه‌وانه‌ش، که سه‌رگه‌ردان و گومڕان (به‌هۆی لاساری و یاخی بوون و نه‌زانینیانه‌وه‌)
 
 
-<body>
-<footer>
-
-<head>
-<body>
-
-<h2>دروستکردنی ابراھیم قادر مصطفی سالی 2020</h2>
-
-<center>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<style>
-.fa {
-  padding-right: auto;
-  font-size: 20px;
-  width: 20px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-
-}
-
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
-.fa-instagram {
-  background: #125688;
-  color: white;
-}
-
-
-.fa-snapchat-ghost {
-  background: #fffc00;
-
-}
-
-h2{
-color: white;
-font-size: 14px;
-}
-</style>
-<!-- Add font awesome icons -->
-<a href="https://www.facebook.com/profile.php?id=100011603976212" class="fa fa-facebook"></a>
-<a href="https://instagram.com/ittz_._ibo?igshid=fegu5zujghat" class="fa fa-instagram"></a>
-<a href="https://www.snapchat.com/add/sulltan.ibrahim" class="fa fa-snapchat-ghost">
-<a href="https://www.youtube.com/channel/UCpReFvryPQ5DVHQAVxgi0tA" class="fa fa-youtube"></a>
-<a href="https://mobile.twitter.com/ibrahemQadir1" class="fa fa-twitter"></a>
-
-</a>
-<footer>
-<html>
+</section>
+    
+   </body>  
+      </html>
