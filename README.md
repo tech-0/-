@@ -161,7 +161,7 @@ font-size: 14px;
 </style>
 <!-- Add font awesome icons -->
 <a href="https://www.facebook.com/profile.php?id=100011603976212" class="fa fa-facebook"></a>
-<a href="https://instagram.com/ittz_._ibo?igshid=fegu5zujghat" class="fa fa-instagram"></a>
+<a href="https://instagram.com/ittz._ibo?igshid=fegu5zujghat" class="fa fa-instagram"></a>
 <a href="https://www.snapchat.com/add/sulltan.ibrahim" class="fa fa-snapchat-ghost">
 <a href="https://www.youtube.com/channel/UCpReFvryPQ5DVHQAVxgi0tA" class="fa fa-youtube"></a>
 <a href="https://mobile.twitter.com/ibrahemQadir1" class="fa fa-twitter"></a>
