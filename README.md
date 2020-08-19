@@ -25,8 +25,8 @@ marign: 5px;
   <div class="head">
   <center>
 	<audio id="myAudio">
-  <source src="https://www.mboxdrive.com/(1).mp3" type="audio/ogg">
-  <source src="https://www.mboxdrive.com/(1).mp3" type="audio/mpeg">
+  <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/ogg">
+  <source src="http://www.truemuslims.net/Quran/Kurdish/001.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
