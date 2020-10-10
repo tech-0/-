@@ -36,23 +36,30 @@
   background-color: #008CBA;
   color: white;
 }
-
 .char{
-  text-shadow: 0 0 3px #FF0000;
-  text-align: center;
-  animation-name: dorkn;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  position:relative;
+ color: white;
+
 }
 
-@keyframes dorkn{
-10%{color:red;transform:scale(2,01);}
-20%{color:skyblue;}
-30%{color:yellow;}
-  
-  
+.next {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  float: right;
 }
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 2px 2px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+  
 
   </style>
   
@@ -64,10 +71,61 @@
       <ion-card class="card" color="">
 
         <ion-card-header>
-<h1 class="char">CHARA</h1>
+
+<a href="#" class="next">گەرانەوە &raquo;</a>
+<br>
+<br>
+<br>
+
+<a href="#" class="button button2">Blue</a>
+<br>
 <br>
 <a href="#" class="button button2">Blue</a>
 <br>
+<br>
+<a href="#" class="button button2">Blue</a> 
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
+<br>
+<br>
+<a href="#" class="button button2">Blue</a>
+
 <br>
 <br>
 <a href="#" class="button button2">Blue</a>
