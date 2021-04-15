@@ -30,7 +30,13 @@ div {
   align-items: center;
   justify-content: center;
   flex-flow: column;
-  
+}
+
+h3{
+	color: #D9D80E;
+	 font-family: 'Speda-Bold';
+	text-align: center;
+	font-size: 14px;
 }
 
 div a {
